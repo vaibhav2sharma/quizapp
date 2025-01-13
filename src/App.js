@@ -3,7 +3,6 @@ import "./App.css";
 import Leaderboard from "./Leaderboard";
 import Quiz from "./Quiz";
 import SetupQuiz from "./SetupQuiz";
-import { ChakraProvider } from "@chakra-ui/react";
 
 function App() {
   return (
